@@ -1,4 +1,4 @@
-<center> Hi There 👋 </center>
+<h1 align="center"> Mathumika Here!👋</h1>
 hello I am mathumika
 a recent graduate in civil engineering from Anna University, has a knack for front-end development, combining her technical skills with a passion for creating user-friendly interfaces and innovative digital experiences.
 About me 
