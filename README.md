@@ -13,3 +13,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathumika&show_icons=true&locale=en" alt="mathumika" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathumika&" alt="mathumika" /></p>
+
+[![](https://visitcount.itsvg.in/api?id=Mathumika&icon=0&color=0)](https://visitcount.itsvg.in)
