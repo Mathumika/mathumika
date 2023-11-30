@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**Mathumika/mathumika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaboraton ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Hi there 👋
+hello I am mathumika
+Madhumika, a recent graduate in civil engineering from Anna University, has a knack for front-end development, combining her technical skills with a passion for creating user-friendly interfaces and innovative digital experiences.
+About me 
+🎓 BE civil engineering
+📫 Email: mathumika17@gmail.com
+🌱 I'm Currently Learning
+ Front end devloping
+📝 Latest Blog Posts
+A Beginner’s Guide to Git and GitHub for Effortless Project Management and Teamwork
+Showcasing 10 Exceptional Websites and What Makes Them Stand Out
+🤝 Connect with Me
+ LinkedIn Medium
