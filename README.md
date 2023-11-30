@@ -14,4 +14,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathumika&" alt="mathumika" /></p>
 
-[![](https://visitcount.itsvg.in/api?id=Mathumika&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mathumika&icon=0&color=0)](https://visitcount.itsvg.in)
