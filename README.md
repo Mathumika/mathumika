@@ -1,7 +1,6 @@
-<p style="text-align:center"> Hi There 👋 </p> 
----
+<p align ="center"> Hi There 👋 </p> 
 hello I am mathumika
-Madhumika, a recent graduate in civil engineering from Anna University, has a knack for front-end development, combining her technical skills with a passion for creating user-friendly interfaces and innovative digital experiences.
+a recent graduate in civil engineering from Anna University, has a knack for front-end development, combining her technical skills with a passion for creating user-friendly interfaces and innovative digital experiences.
 About me 
 🎓 BE civil engineering
 📫 Email: mathumika17@gmail.com
